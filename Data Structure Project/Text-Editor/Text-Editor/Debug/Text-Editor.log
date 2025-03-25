@@ -1,0 +1,6 @@
+﻿  Source.cpp
+  TextEditor.cpp
+D:\Eng Solieman\PROJECTS\My-Projects\Text-Editor\Text-Editor\TextEditor.cpp(91,23): warning C4018: '<': signed/unsigned mismatch
+D:\Eng Solieman\PROJECTS\My-Projects\Text-Editor\Text-Editor\TextEditor.cpp(97,23): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Text-Editor.vcxproj -> D:\Eng Solieman\PROJECTS\My-Projects\Text-Editor\Debug\Text-Editor.exe
